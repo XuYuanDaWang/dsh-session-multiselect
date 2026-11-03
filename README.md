@@ -25,7 +25,7 @@
 ## 安装
 
 ```bash
-git clone <本仓库地址> ~/.dsh/plugins/dsh-session-multiselect
+git clone https://github.com/XuYuanDaWang/dsh-session-multiselect.git ~/.dsh/plugins/dsh-session-multiselect
 ~/.dsh/plugins/dsh-session-multiselect/install.sh   # 自动登记到 profile 并建软链
 ```
 

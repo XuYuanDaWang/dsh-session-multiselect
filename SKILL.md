@@ -59,7 +59,7 @@ metadata:
 1. 把本仓库克隆到稳定目录（同时作为技能与插件来源）：
 
    ```bash
-   git clone <本仓库地址> ~/.dsh/plugins/dsh-session-multiselect
+   git clone https://github.com/XuYuanDaWang/dsh-session-multiselect.git ~/.dsh/plugins/dsh-session-multiselect
    ```
 
 2. 让它作为技能被发现（二选一）：
@@ -79,7 +79,7 @@ metadata:
 
    ```bash
    mkdir -p ~/.dsh/plugins
-   git clone <本仓库地址> ~/.dsh/plugins/dsh-session-multiselect
+   git clone https://github.com/XuYuanDaWang/dsh-session-multiselect.git ~/.dsh/plugins/dsh-session-multiselect
    ```
 
 2. **在 profile 的 `package.json` 里登记依赖与 bundle**：
