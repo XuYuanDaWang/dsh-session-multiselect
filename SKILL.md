@@ -17,6 +17,8 @@ metadata:
 
 ## 功能是什么
 
+- 🎬 **23 秒演示视频**（本仓库 README 顶部可播放）：<https://github.com/user-attachments/assets/7705e0ad-8a7a-4aba-ac66-bcdf281dae5b>
+
 - **Shift + 点击**：以“上一次普通点击的那条会话”为锚点，从锚点到当前点击的这条（含两端）
   整段选中；支持从上往下，也支持从下往上。
 - **Cmd / Ctrl + 点击**：对单条会话加选 / 取消加选。
