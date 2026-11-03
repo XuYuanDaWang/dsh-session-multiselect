@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Batch Select",
+    "description": "Hold Shift and click from the first session to the last to select a whole range, then batch-archive the selected sessions (undoable / unarchivable)."
+  }
+}

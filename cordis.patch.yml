@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-session-multiselect
+      name: '@local/dsh-session-multiselect'
